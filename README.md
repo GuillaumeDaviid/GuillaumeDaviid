@@ -5,6 +5,6 @@
 
 website : guillaumedavid.com
 
-project full stack : 01academie.com
+full stack project : 01academie.com
 
 malt : https://www.malt.fr/profile/guillaumedavid2
