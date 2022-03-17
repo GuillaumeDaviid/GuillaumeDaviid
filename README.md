@@ -10,14 +10,12 @@ Languages and tools :
 
 
 
-
-
-
-
-
-
 website : guillaumedavid.com
 
 full stack project : 01academie.com
 
+linkedin : https://www.linkedin.com/in/guillaume-david-5541271b9/
+
 malt : https://www.malt.fr/profile/guillaumedavid2
+
+! [GHstats](https://github-readme-stats.vercel.app/api?username=GuillaumeDaviid&show_icons=true)
