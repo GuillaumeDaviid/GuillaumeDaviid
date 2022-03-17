@@ -5,7 +5,7 @@
 
 Languages and tools : 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height:"20px" width:"20px"/>
 
 website : guillaumedavid.com
 
