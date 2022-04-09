@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**GuillaumeDaviid Développpeur freelance front end (Javascript - React.js)
+GuillaumeDaviid Développpeur freelance front end (Javascript - React.js)
 
 ### Languages and tools : 
 
