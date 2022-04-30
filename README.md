@@ -21,5 +21,7 @@ malt : [Mon profil](https://www.malt.fr/profile/guillaumedavid2)
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=GuillaumeDaviid&show_icons=true)
 
-<a href="https://www.linkedin.com/in/guillaume-david-5541271b9/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px"/></a>
+<a href="https://www.linkedin.com/in/guillaume-david-5541271b9/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px"/></a>
+
+
 
