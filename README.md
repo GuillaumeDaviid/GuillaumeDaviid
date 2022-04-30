@@ -20,3 +20,6 @@ linkedin : [Guillaume David](https://www.linkedin.com/in/guillaume-david-5541271
 malt : [Mon profil](https://www.malt.fr/profile/guillaumedavid2)
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=GuillaumeDaviid&show_icons=true)
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
