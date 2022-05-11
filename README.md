@@ -3,7 +3,7 @@
 
 Développpeur freelance front end spécialisé React.JS et fondateur de 01 Academie.
 
-Freelance front end developper in React.JS and founder of 01 Academie.
+Freelance front end developer in React.JS and founder of 01 Academie.
 
 ### Languages and tools : 
 
