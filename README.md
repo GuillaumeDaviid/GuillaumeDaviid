@@ -5,6 +5,12 @@ Développpeur freelance front end spécialisé React.JS et fondateur de 01 Acade
 
 Freelance front end developer in React.JS and founder of 01 Academie.
 
+### Major Personal Project :
+
+ - 01academie, site de quizz pour tester ses connaissances en code. (Utilisation du Javascript vanilla, PHP et SQL - MySQL)
+
+ - Clone de Netflix en React
+
 ### Languages and tools : 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="30px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="30px"/>
