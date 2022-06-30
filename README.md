@@ -11,7 +11,7 @@ Freelance front end developer in React.JS and founder of 01 Academie.
 
  - Clone de Netflix en React
  
- - Site de e-commencer en React combiné à l'utilisation de redux
+ - Site de e-commence en React combiné à l'utilisation de redux
 
 ### Languages and tools : 
 
