@@ -35,6 +35,6 @@ Freelance front end developer in React.JS and founder of 01 Academie.
 <a href="https://www.linkedin.com/in/guillaume-david-5541271b9/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px"/></a>
 
 ## 📜 My recent blog posts
-{{range rss "https://medium.com/feed/@guillaumedaavid" 10}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
+{range rss "https://medium.com/feed/@guillaumedaavid" 10}
+- [{.Title}}]({{.URL}}) ({{humanize .PublishedAt})
+{- end}
