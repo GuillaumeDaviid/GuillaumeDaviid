@@ -32,7 +32,7 @@ Freelance front end developer in React.JS and founder of 01 Academie.
 ![GHstats](https://github-readme-stats.vercel.app/api?username=GuillaumeDaviid&show_icons=true)
 
 
-## 📜 My recent blog posts
+## 📜 My recent blog posts <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
 {{range rss "https://medium.com/feed/@guillaumedaavid" 10}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
