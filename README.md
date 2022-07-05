@@ -29,6 +29,8 @@ Freelance front end developer in React.JS and founder of 01 Academie.
 
 [Malt](https://www.malt.fr/profile/guillaumedavid2)
 
+<h2>GitHub Stats</h2>
+
 ![GHstats](https://github-readme-stats.vercel.app/api?username=GuillaumeDaviid&show_icons=true)
 
 
