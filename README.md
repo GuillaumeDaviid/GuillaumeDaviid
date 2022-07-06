@@ -36,10 +36,10 @@ Freelance front end developer in React.JS and founder of 01 Academie.
 
 ## 📜 My recent blog posts <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
 
-- [React Reveal](https://guillaumedaavid.medium.com/react-reveal-54f2cf540fc8?source=rss-a01198f8b650------2) (1 day ago)
+- [React Reveal](https://guillaumedaavid.medium.com/react-reveal-54f2cf540fc8?source=rss-a01198f8b650------2) (2 days ago)
 - [Comment intégrer du code sur Medium ?](https://guillaumedaavid.medium.com/comment-int%C3%A9grer-du-code-sur-medium-4195df251625?source=rss-a01198f8b650------2) (1 week ago)
-- [CSS GRID POUR LES DÉBUTANTS](https://guillaumedaavid.medium.com/css-grid-pour-les-d%C3%A9butants-c572f15249d9?source=rss-a01198f8b650------2) (2 weeks ago)
-- [Présentation des hooks React](https://guillaumedaavid.medium.com/pr%C3%A9sentation-des-hooks-react-e2456b4fd5cc?source=rss-a01198f8b650------2) (4 weeks ago)
+- [CSS GRID POUR LES DÉBUTANTS](https://guillaumedaavid.medium.com/css-grid-pour-les-d%C3%A9butants-c572f15249d9?source=rss-a01198f8b650------2) (3 weeks ago)
+- [Présentation des hooks React](https://guillaumedaavid.medium.com/pr%C3%A9sentation-des-hooks-react-e2456b4fd5cc?source=rss-a01198f8b650------2) (1 month ago)
 - [React: Composant fonctionnel ou classe ?](https://guillaumedaavid.medium.com/react-composant-fonctionnel-ou-classe-8d49220e32fe?source=rss-a01198f8b650------2) (1 month ago)
 - [Pourquoi j’ai choisi React ?](https://guillaumedaavid.medium.com/pourquoi-jai-choisi-react-95f8b2394fc0?source=rss-a01198f8b650------2) (1 month ago)
 - [L’écosystème JavaScript](https://guillaumedaavid.medium.com/l%C3%A9cosyst%C3%A8me-javascript-3dba69afa81d?source=rss-a01198f8b650------2) (1 month ago)
