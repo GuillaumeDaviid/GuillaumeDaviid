@@ -45,7 +45,7 @@ Freelance front end developer in React.JS and founder of 01 Academie.
 - [CSS GRID POUR LES DÉBUTANTS](https://guillaumedaavid.medium.com/css-grid-pour-les-d%C3%A9butants-c572f15249d9?source=rss-a01198f8b650------2) (3 weeks ago)
 - [Présentation des hooks React](https://guillaumedaavid.medium.com/pr%C3%A9sentation-des-hooks-react-e2456b4fd5cc?source=rss-a01198f8b650------2) (1 month ago)
 - [React: Composant fonctionnel ou classe ?](https://guillaumedaavid.medium.com/react-composant-fonctionnel-ou-classe-8d49220e32fe?source=rss-a01198f8b650------2) (1 month ago)
-- [Pourquoi j’ai choisi React ?](https://guillaumedaavid.medium.com/pourquoi-jai-choisi-react-95f8b2394fc0?source=rss-a01198f8b650------2) (1 month ago)
+- [Pourquoi j’ai choisi React ?](https://guillaumedaavid.medium.com/pourquoi-jai-choisi-react-95f8b2394fc0?source=rss-a01198f8b650------2) (2 months ago)
 - [L’écosystème JavaScript](https://guillaumedaavid.medium.com/l%C3%A9cosyst%C3%A8me-javascript-3dba69afa81d?source=rss-a01198f8b650------2) (2 months ago)
 - [GIT : L’outil indispensable des développeurs](https://guillaumedaavid.medium.com/git-loutil-indispensable-des-d%C3%A9veloppeurs-d0ec5c2f9e12?source=rss-a01198f8b650------2) (2 months ago)
 - [Qu’est qu’un développeur Front-End ?](https://guillaumedaavid.medium.com/quest-qu-un-d%C3%A9veloppeur-front-end-bb7a5f62cd81?source=rss-a01198f8b650------2) (3 months ago)
