@@ -5,7 +5,7 @@ Développpeur freelance front end spécialisé React.JS et fondateur de 01 Acade
 
 Freelance front end developer in React.JS and founder of 01 Academie.
 
-### Major Personal Project :
+### Major Project :
 
  - 01academie, site de quizz pour tester ses connaissances en code. (Utilisation du Javascript vanilla, PHP et SQL - MySQL)
 
