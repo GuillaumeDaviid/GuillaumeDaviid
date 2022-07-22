@@ -48,7 +48,7 @@ Freelance front end developer in React.JS and founder of 01 Academie.
 - [Pourquoi j’ai choisi React ?](https://guillaumedaavid.medium.com/pourquoi-jai-choisi-react-95f8b2394fc0?source=rss-a01198f8b650------2) (2 months ago)
 - [L’écosystème JavaScript](https://guillaumedaavid.medium.com/l%C3%A9cosyst%C3%A8me-javascript-3dba69afa81d?source=rss-a01198f8b650------2) (2 months ago)
 - [GIT : L’outil indispensable des développeurs](https://guillaumedaavid.medium.com/git-loutil-indispensable-des-d%C3%A9veloppeurs-d0ec5c2f9e12?source=rss-a01198f8b650------2) (2 months ago)
-- [Qu’est qu’un développeur Front-End ?](https://guillaumedaavid.medium.com/quest-qu-un-d%C3%A9veloppeur-front-end-bb7a5f62cd81?source=rss-a01198f8b650------2) (3 months ago)
+- [Qu’est qu’un développeur Front-End ?](https://guillaumedaavid.medium.com/quest-qu-un-d%C3%A9veloppeur-front-end-bb7a5f62cd81?source=rss-a01198f8b650------2) (4 months ago)
 - [Le positionnement en CSS](https://guillaumedaavid.medium.com/le-positionnement-en-css-605997f09c1c?source=rss-a01198f8b650------2) (4 months ago)
 
 ##  Where to find me
