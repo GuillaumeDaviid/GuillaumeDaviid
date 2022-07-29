@@ -40,7 +40,7 @@ Freelance front end developer in React.JS and founder of 01 Academie.
 
 ## 📜 My recent blog posts <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
 
-- [Pourquoi utiliser TypeScript ?](https://guillaumedaavid.medium.com/pourquoi-utiliser-typescript-38da27a324e5?source=rss-a01198f8b650------2) (3 days ago)
+- [Pourquoi utiliser TypeScript ?](https://guillaumedaavid.medium.com/pourquoi-utiliser-typescript-38da27a324e5?source=rss-a01198f8b650------2) (4 days ago)
 - [React Reveal](https://guillaumedaavid.medium.com/react-reveal-54f2cf540fc8?source=rss-a01198f8b650------2) (3 weeks ago)
 - [Comment intégrer du code sur Medium ?](https://guillaumedaavid.medium.com/comment-int%C3%A9grer-du-code-sur-medium-4195df251625?source=rss-a01198f8b650------2) (1 month ago)
 - [CSS GRID POUR LES DÉBUTANTS](https://guillaumedaavid.medium.com/css-grid-pour-les-d%C3%A9butants-c572f15249d9?source=rss-a01198f8b650------2) (1 month ago)
