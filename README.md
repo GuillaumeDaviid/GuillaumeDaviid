@@ -41,9 +41,9 @@ Freelance front end developer in React.JS and founder of 01 Academie.
 
 ## 📜 My recent blog posts <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
 
-- [5 Bibliothèques React à utiliser !](https://guillaumedaavid.medium.com/5-biblioth%C3%A8ques-react-%C3%A0-utiliser-fd82a069c4aa?source=rss-a01198f8b650------2) (6 days ago)
-- [Pourquoi j’évite le nesting avec SASS ?](https://guillaumedaavid.medium.com/pourquoi-j%C3%A9vite-le-nesting-avec-sass-1bef55b6ca4d?source=rss-a01198f8b650------2) (1 week ago)
-- [Pourquoi utiliser TypeScript ?](https://guillaumedaavid.medium.com/pourquoi-utiliser-typescript-38da27a324e5?source=rss-a01198f8b650------2) (2 weeks ago)
+- [5 Bibliothèques React à utiliser !](https://guillaumedaavid.medium.com/5-biblioth%C3%A8ques-react-%C3%A0-utiliser-fd82a069c4aa?source=rss-a01198f8b650------2) (1 week ago)
+- [Pourquoi j’évite le nesting avec SASS ?](https://guillaumedaavid.medium.com/pourquoi-j%C3%A9vite-le-nesting-avec-sass-1bef55b6ca4d?source=rss-a01198f8b650------2) (2 weeks ago)
+- [Pourquoi utiliser TypeScript ?](https://guillaumedaavid.medium.com/pourquoi-utiliser-typescript-38da27a324e5?source=rss-a01198f8b650------2) (3 weeks ago)
 - [React Reveal](https://guillaumedaavid.medium.com/react-reveal-54f2cf540fc8?source=rss-a01198f8b650------2) (1 month ago)
 - [Comment intégrer du code sur Medium ?](https://guillaumedaavid.medium.com/comment-int%C3%A9grer-du-code-sur-medium-4195df251625?source=rss-a01198f8b650------2) (1 month ago)
 - [CSS GRID POUR LES DÉBUTANTS](https://guillaumedaavid.medium.com/css-grid-pour-les-d%C3%A9butants-c572f15249d9?source=rss-a01198f8b650------2) (2 months ago)
