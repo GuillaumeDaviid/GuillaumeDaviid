@@ -41,7 +41,7 @@ Freelance front end developer in React.JS and founder of 01 Academie.
 
 ## 📜 My recent blog posts <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
 
-- [Les compétences indispensables pour un développeur !](https://guillaumedaavid.medium.com/les-comp%C3%A9tences-indispensables-pour-un-d%C3%A9veloppeur-93bafe659d90?source=rss-a01198f8b650------2) (3 days ago)
+- [Les compétences indispensables pour un développeur !](https://guillaumedaavid.medium.com/les-comp%C3%A9tences-indispensables-pour-un-d%C3%A9veloppeur-93bafe659d90?source=rss-a01198f8b650------2) (4 days ago)
 - [5 Bibliothèques React à utiliser !](https://guillaumedaavid.medium.com/5-biblioth%C3%A8ques-react-%C3%A0-utiliser-fd82a069c4aa?source=rss-a01198f8b650------2) (2 weeks ago)
 - [Pourquoi j’évite le nesting avec SASS ?](https://guillaumedaavid.medium.com/pourquoi-j%C3%A9vite-le-nesting-avec-sass-1bef55b6ca4d?source=rss-a01198f8b650------2) (3 weeks ago)
 - [Pourquoi utiliser TypeScript ?](https://guillaumedaavid.medium.com/pourquoi-utiliser-typescript-38da27a324e5?source=rss-a01198f8b650------2) (1 month ago)
