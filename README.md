@@ -41,6 +41,7 @@ Freelance front end developer in React.JS and founder of 01 Academie.
 
 ## 📜 My recent blog posts <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
 
+- [Pourquoi utiliser Next.JS ?](https://guillaumedaavid.medium.com/pourquoi-utiliser-next-js-18238cf85051?source=rss-a01198f8b650------2) (today)
 - [Pourquoi utiliser Gatsby pour votre site web ?](https://guillaumedaavid.medium.com/pourquoi-utiliser-gatsby-pour-votre-site-web-575847f97ce8?source=rss-a01198f8b650------2) (1 week ago)
 - [Les compétences indispensables pour un développeur !](https://guillaumedaavid.medium.com/les-comp%C3%A9tences-indispensables-pour-un-d%C3%A9veloppeur-93bafe659d90?source=rss-a01198f8b650------2) (3 weeks ago)
 - [5 Bibliothèques React à utiliser !](https://guillaumedaavid.medium.com/5-biblioth%C3%A8ques-react-%C3%A0-utiliser-fd82a069c4aa?source=rss-a01198f8b650------2) (1 month ago)
@@ -50,7 +51,6 @@ Freelance front end developer in React.JS and founder of 01 Academie.
 - [Comment intégrer du code sur Medium ?](https://guillaumedaavid.medium.com/comment-int%C3%A9grer-du-code-sur-medium-4195df251625?source=rss-a01198f8b650------2) (2 months ago)
 - [CSS GRID POUR LES DÉBUTANTS](https://guillaumedaavid.medium.com/css-grid-pour-les-d%C3%A9butants-c572f15249d9?source=rss-a01198f8b650------2) (3 months ago)
 - [Présentation des hooks React](https://guillaumedaavid.medium.com/pr%C3%A9sentation-des-hooks-react-e2456b4fd5cc?source=rss-a01198f8b650------2) (3 months ago)
-- [React: Composant fonctionnel ou classe ?](https://guillaumedaavid.medium.com/react-composant-fonctionnel-ou-classe-8d49220e32fe?source=rss-a01198f8b650------2) (3 months ago)
 
 ##  Where to find me
 
