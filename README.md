@@ -43,8 +43,8 @@ Freelance front end developer in React.JS and founder of 01 Academie.
 
 ## 📜 My recent blog posts <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
 
-- [React : Tout savoir sur useEffect](https://guillaumedaavid.medium.com/react-tout-savoir-sur-useeffect-155d5628924c?source=rss-a01198f8b650------2) (1 day ago)
-- [Next.js vs Gatsby, lequel Choisir ?](https://guillaumedaavid.medium.com/next-js-vs-gatsby-lequel-choisir-d408aec7a895?source=rss-a01198f8b650------2) (3 weeks ago)
+- [React : Tout savoir sur useEffect](https://guillaumedaavid.medium.com/react-tout-savoir-sur-useeffect-155d5628924c?source=rss-a01198f8b650------2) (2 days ago)
+- [Next.js vs Gatsby, lequel Choisir ?](https://guillaumedaavid.medium.com/next-js-vs-gatsby-lequel-choisir-d408aec7a895?source=rss-a01198f8b650------2) (4 weeks ago)
 - [Pourquoi utiliser Next.JS ?](https://guillaumedaavid.medium.com/pourquoi-utiliser-next-js-18238cf85051?source=rss-a01198f8b650------2) (1 month ago)
 - [Pourquoi utiliser Gatsby pour votre site web ?](https://guillaumedaavid.medium.com/pourquoi-utiliser-gatsby-pour-votre-site-web-575847f97ce8?source=rss-a01198f8b650------2) (1 month ago)
 - [Les compétences indispensables pour un développeur !](https://guillaumedaavid.medium.com/les-comp%C3%A9tences-indispensables-pour-un-d%C3%A9veloppeur-93bafe659d90?source=rss-a01198f8b650------2) (2 months ago)
