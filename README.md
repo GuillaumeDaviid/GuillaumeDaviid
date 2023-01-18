@@ -45,7 +45,7 @@ Freelance front end developer in React.JS and founder of 01 Academie.
 
 - [La différence entre Redux et useContext](https://guillaumedaavid.medium.com/la-diff%C3%A9rence-entre-redux-et-usecontext-22bd9d8984cb?source=rss-a01198f8b650------2) (1 week ago)
 - [La différence entre Redux et MobX](https://guillaumedaavid.medium.com/la-diff%C3%A9rence-entre-redux-et-mobx-3715e32f03b8?source=rss-a01198f8b650------2) (2 weeks ago)
-- [React : Tout savoir sur useEffect](https://guillaumedaavid.medium.com/react-tout-savoir-sur-useeffect-155d5628924c?source=rss-a01198f8b650------2) (2 months ago)
+- [React : Tout savoir sur useEffect](https://guillaumedaavid.medium.com/react-tout-savoir-sur-useeffect-155d5628924c?source=rss-a01198f8b650------2) (3 months ago)
 - [Next.js vs Gatsby, lequel Choisir ?](https://guillaumedaavid.medium.com/next-js-vs-gatsby-lequel-choisir-d408aec7a895?source=rss-a01198f8b650------2) (3 months ago)
 - [Pourquoi utiliser Next.JS ?](https://guillaumedaavid.medium.com/pourquoi-utiliser-next-js-18238cf85051?source=rss-a01198f8b650------2) (4 months ago)
 - [Pourquoi utiliser Gatsby pour votre site web ?](https://guillaumedaavid.medium.com/pourquoi-utiliser-gatsby-pour-votre-site-web-575847f97ce8?source=rss-a01198f8b650------2) (4 months ago)
