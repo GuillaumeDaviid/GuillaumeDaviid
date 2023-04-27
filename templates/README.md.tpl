@@ -16,6 +16,8 @@ Freelance front end developer in React.JS and founder of 01 Academie.
  - Site de visio conférence en freelance (Javascript vanilla)
  
  - Site de réservation de restaurant en freelance (React, Typescript, redux ...)
+ 
+ - e-survey, plateforme qui permet de créer des questionnaires personnalisés.
 
 ### Languages and tools :
 
