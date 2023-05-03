@@ -9,7 +9,7 @@ Freelance front end developer in React.JS and founder of 01 Academie.
 
  - 01academie, site de quizz pour tester ses connaissances en code. (Utilisation du Javascript vanilla, PHP et SQL - MySQL)
 
- - Clone de Netflix en React
+ - Clone de Netflix en React et avec l'utilisation de l'API themoviedb
 
  - Site de e-commence en React combiné à l'utilisation de redux
  
@@ -17,7 +17,7 @@ Freelance front end developer in React.JS and founder of 01 Academie.
  
  - Site de réservation de restaurant en freelance (React, Typescript, redux ...)
  
- - e-survey, plateforme qui permet de créer des questionnaires personnalisés.
+ - e-survey, plateforme qui permet de créer des questionnaires personnalisés avec ReactJS
 
 ### Languages and tools :
 
