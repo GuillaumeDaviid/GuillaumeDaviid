@@ -19,7 +19,7 @@ Freelance front end developer in React.JS and founder of 01 Academie.
  
  - e-survey, plateforme qui permet de créer des questionnaires personnalisés avec ReactJS
 
-- Luxant Innovation - Angular - MySQL - Feathers.js
+ - Luxant Innovation - Angular - MySQL - Feathers.js
 
 ### Languages and tools :
 
