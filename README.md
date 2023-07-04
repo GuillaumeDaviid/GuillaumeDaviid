@@ -53,9 +53,9 @@ Freelance front end developer in React.JS and founder of 01 Academie.
 - [React : Tout savoir sur useEffect](https://guillaumedaavid.medium.com/react-tout-savoir-sur-useeffect-155d5628924c?source=rss-a01198f8b650------2) (8 months ago)
 - [Next.js vs Gatsby, lequel Choisir ?](https://guillaumedaavid.medium.com/next-js-vs-gatsby-lequel-choisir-d408aec7a895?source=rss-a01198f8b650------2) (9 months ago)
 - [Pourquoi utiliser Next.JS ?](https://guillaumedaavid.medium.com/pourquoi-utiliser-next-js-18238cf85051?source=rss-a01198f8b650------2) (9 months ago)
-- [Pourquoi utiliser Gatsby pour votre site web ?](https://guillaumedaavid.medium.com/pourquoi-utiliser-gatsby-pour-votre-site-web-575847f97ce8?source=rss-a01198f8b650------2) (9 months ago)
+- [Pourquoi utiliser Gatsby pour votre site web ?](https://guillaumedaavid.medium.com/pourquoi-utiliser-gatsby-pour-votre-site-web-575847f97ce8?source=rss-a01198f8b650------2) (10 months ago)
 - [Les compétences indispensables pour un développeur !](https://guillaumedaavid.medium.com/les-comp%C3%A9tences-indispensables-pour-un-d%C3%A9veloppeur-93bafe659d90?source=rss-a01198f8b650------2) (10 months ago)
-- [5 Bibliothèques React à utiliser !](https://guillaumedaavid.medium.com/5-biblioth%C3%A8ques-react-%C3%A0-utiliser-fd82a069c4aa?source=rss-a01198f8b650------2) (10 months ago)
+- [5 Bibliothèques React à utiliser !](https://guillaumedaavid.medium.com/5-biblioth%C3%A8ques-react-%C3%A0-utiliser-fd82a069c4aa?source=rss-a01198f8b650------2) (11 months ago)
 - [Pourquoi j’évite le nesting avec SASS ?](https://guillaumedaavid.medium.com/pourquoi-j%C3%A9vite-le-nesting-avec-sass-1bef55b6ca4d?source=rss-a01198f8b650------2) (11 months ago)
 
 ##  Where to find me
