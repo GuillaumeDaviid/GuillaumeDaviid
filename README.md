@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-Développpeur freelance front end spécialisé React.JS et fondateur de 01 Academie.
+Développpeur front end spécialisé React.JS et fondateur de 01 Academie.
 
-Freelance front end developer in React.JS and founder of 01 Academie.
+front end developer in React.JS and founder of 01 Academie.
 
 ### Major Project :
 
