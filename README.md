@@ -51,7 +51,7 @@ front end developer in React.JS and founder of 01 Academie.
 - [Pourquoi Vercel est la solution parfaite pour héberger votre projet React rapidement ?](https://guillaumedaavid.medium.com/pourquoi-vercel-est-la-solution-parfaite-pour-h%C3%A9berger-votre-projet-react-rapidement-c32cd7b4bab2?source=rss-a01198f8b650------2) (3 months ago)
 - [Créez un chatbot avec React.JS et ChatGPT](https://guillaumedaavid.medium.com/cr%C3%A9ez-un-chatbot-avec-react-js-et-chatgpt-c38c89c4b4eb?source=rss-a01198f8b650------2) (7 months ago)
 - [La différence entre Redux et useContext](https://guillaumedaavid.medium.com/la-diff%C3%A9rence-entre-redux-et-usecontext-22bd9d8984cb?source=rss-a01198f8b650------2) (11 months ago)
-- [La différence entre Redux et MobX](https://guillaumedaavid.medium.com/la-diff%C3%A9rence-entre-redux-et-mobx-3715e32f03b8?source=rss-a01198f8b650------2) (11 months ago)
+- [La différence entre Redux et MobX](https://guillaumedaavid.medium.com/la-diff%C3%A9rence-entre-redux-et-mobx-3715e32f03b8?source=rss-a01198f8b650------2) (1 year ago)
 - [React : Tout savoir sur useEffect](https://guillaumedaavid.medium.com/react-tout-savoir-sur-useeffect-155d5628924c?source=rss-a01198f8b650------2) (1 year ago)
 - [Next.js vs Gatsby, lequel Choisir ?](https://guillaumedaavid.medium.com/next-js-vs-gatsby-lequel-choisir-d408aec7a895?source=rss-a01198f8b650------2) (1 year ago)
 - [Pourquoi utiliser Next.JS ?](https://guillaumedaavid.medium.com/pourquoi-utiliser-next-js-18238cf85051?source=rss-a01198f8b650------2) (1 year ago)
