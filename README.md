@@ -47,7 +47,7 @@ front end developer in React.JS and Angular.
 - [Créer un chatbot avec Claude 3 et React](https://guillaumedaavid.medium.com/cr%C3%A9er-un-chatbot-avec-claude-3-et-react-5c8128a32eba?source=rss-a01198f8b650------2) (1 month ago)
 - [Toutes les nouveautés de CSS pour bien commencer 2024](https://guillaumedaavid.medium.com/toutes-les-nouveaut%C3%A9s-de-css-pour-bien-commencer-2024-c2afdf452d5d?source=rss-a01198f8b650------2) (4 months ago)
 - [Créez votre propre ChatGPT avec Angular !](https://guillaumedaavid.medium.com/cr%C3%A9ez-votre-propre-chatgpt-avec-angular-d94b474ebdc6?source=rss-a01198f8b650------2) (7 months ago)
-- [Pourquoi Vercel est la solution parfaite pour héberger votre projet React rapidement ?](https://guillaumedaavid.medium.com/pourquoi-vercel-est-la-solution-parfaite-pour-h%C3%A9berger-votre-projet-react-rapidement-c32cd7b4bab2?source=rss-a01198f8b650------2) (7 months ago)
+- [Pourquoi Vercel est la solution parfaite pour héberger votre projet React rapidement ?](https://guillaumedaavid.medium.com/pourquoi-vercel-est-la-solution-parfaite-pour-h%C3%A9berger-votre-projet-react-rapidement-c32cd7b4bab2?source=rss-a01198f8b650------2) (8 months ago)
 - [Créez un chatbot avec React.JS et ChatGPT](https://guillaumedaavid.medium.com/cr%C3%A9ez-un-chatbot-avec-react-js-et-chatgpt-c38c89c4b4eb?source=rss-a01198f8b650------2) (1 year ago)
 - [La différence entre Redux et useContext](https://guillaumedaavid.medium.com/la-diff%C3%A9rence-entre-redux-et-usecontext-22bd9d8984cb?source=rss-a01198f8b650------2) (1 year ago)
 - [La différence entre Redux et MobX](https://guillaumedaavid.medium.com/la-diff%C3%A9rence-entre-redux-et-mobx-3715e32f03b8?source=rss-a01198f8b650------2) (1 year ago)
