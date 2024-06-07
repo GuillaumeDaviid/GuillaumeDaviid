@@ -44,7 +44,7 @@ front end developer in React.JS and Angular.
 
 ## 📜 My recent blog posts <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
 
-- [Angular : La détection des changements](https://guillaumedaavid.medium.com/angular-la-d%C3%A9tection-des-changements-9332384fc63f?source=rss-a01198f8b650------2) (4 days ago)
+- [Angular : La détection des changements](https://guillaumedaavid.medium.com/angular-la-d%C3%A9tection-des-changements-9332384fc63f?source=rss-a01198f8b650------2) (5 days ago)
 - [Créer un chatbot avec Claude 3 et React](https://guillaumedaavid.medium.com/cr%C3%A9er-un-chatbot-avec-claude-3-et-react-5c8128a32eba?source=rss-a01198f8b650------2) (1 month ago)
 - [Toutes les nouveautés de CSS pour bien commencer 2024](https://guillaumedaavid.medium.com/toutes-les-nouveaut%C3%A9s-de-css-pour-bien-commencer-2024-c2afdf452d5d?source=rss-a01198f8b650------2) (5 months ago)
 - [Créez votre propre ChatGPT avec Angular !](https://guillaumedaavid.medium.com/cr%C3%A9ez-votre-propre-chatgpt-avec-angular-d94b474ebdc6?source=rss-a01198f8b650------2) (7 months ago)
