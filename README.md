@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-Développpeur front end React.JS et Angular.
+Développpeur Full Stack Javascript/Typescript pour Luxant Innovation.
 
-front end developer in React.JS and Angular.
+Full Stack developer for Luxant Innovation.
 
 ### Major Project :
 
@@ -17,7 +17,7 @@ front end developer in React.JS and Angular.
  
  - e-survey, plateforme qui permet de créer des questionnaires personnalisés avec ReactJS
 
- - Luxant Innovation - Angular - MySQL - Feathers.js
+ - Luxant Innovation - Angular - SQL/MySQL - Feathers.js - Express 
 
 ### Languages and tools :
 
