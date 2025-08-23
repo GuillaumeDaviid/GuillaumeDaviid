@@ -42,8 +42,8 @@ Full Stack developer for Luxant Innovation.
 
 ## 📜 My recent blog posts <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
 
-- [Comment se passer des hooks de cycle de vie dans Angular ?](https://guillaumedaavid.medium.com/comment-se-passer-des-hooks-de-cycle-de-vie-dans-angular-2b90251f293d?source=rss-a01198f8b650------2) (1 week ago)
-- [Pourquoi adopter une architecture Microservice ?](https://guillaumedaavid.medium.com/pourquoi-adopter-une-architecture-microservice-d8ba9cc7b3f1?source=rss-a01198f8b650------2) (2 months ago)
+- [Comment se passer des hooks de cycle de vie dans Angular ?](https://guillaumedaavid.medium.com/comment-se-passer-des-hooks-de-cycle-de-vie-dans-angular-2b90251f293d?source=rss-a01198f8b650------2) (2 weeks ago)
+- [Pourquoi adopter une architecture Microservice ?](https://guillaumedaavid.medium.com/pourquoi-adopter-une-architecture-microservice-d8ba9cc7b3f1?source=rss-a01198f8b650------2) (3 months ago)
 - [Angular : La détection des changements](https://guillaumedaavid.medium.com/angular-la-d%C3%A9tection-des-changements-9332384fc63f?source=rss-a01198f8b650------2) (1 year ago)
 - [Créer un chatbot avec Claude 3 et React](https://guillaumedaavid.medium.com/cr%C3%A9er-un-chatbot-avec-claude-3-et-react-5c8128a32eba?source=rss-a01198f8b650------2) (1 year ago)
 - [Toutes les nouveautés de CSS pour bien commencer 2024](https://guillaumedaavid.medium.com/toutes-les-nouveaut%C3%A9s-de-css-pour-bien-commencer-2024-c2afdf452d5d?source=rss-a01198f8b650------2) (2 years ago)
