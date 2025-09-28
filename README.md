@@ -42,7 +42,7 @@ Full Stack developer for Luxant Innovation.
 
 ## 📜 My recent blog posts <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
 
-- [Comment optimiser vos images docker ?](https://guillaumedaavid.medium.com/comment-optimiser-vos-images-docker-c0a1e2bd4340?source=rss-a01198f8b650------2) (6 days ago)
+- [Comment optimiser vos images docker ?](https://guillaumedaavid.medium.com/comment-optimiser-vos-images-docker-c0a1e2bd4340?source=rss-a01198f8b650------2) (1 week ago)
 - [Comment se passer des hooks de cycle de vie dans Angular ?](https://guillaumedaavid.medium.com/comment-se-passer-des-hooks-de-cycle-de-vie-dans-angular-2b90251f293d?source=rss-a01198f8b650------2) (1 month ago)
 - [Pourquoi adopter une architecture Microservice ?](https://guillaumedaavid.medium.com/pourquoi-adopter-une-architecture-microservice-d8ba9cc7b3f1?source=rss-a01198f8b650------2) (4 months ago)
 - [Angular : La détection des changements](https://guillaumedaavid.medium.com/angular-la-d%C3%A9tection-des-changements-9332384fc63f?source=rss-a01198f8b650------2) (1 year ago)
