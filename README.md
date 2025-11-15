@@ -42,7 +42,7 @@ Full Stack developer for Luxant Innovation.
 
 ## 📜 My recent blog posts <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
 
-- [PrimeNG : comment remplacer facilement ses icônes par vos propres SVG sous Angular 20](https://guillaumedaavid.medium.com/primeng-comment-remplacer-facilement-ses-ic%C3%B4nes-par-vos-propres-svg-sous-angular-20-f7327de0216c?source=rss-a01198f8b650------2) (2 weeks ago)
+- [PrimeNG : comment remplacer facilement ses icônes par vos propres SVG sous Angular 20](https://guillaumedaavid.medium.com/primeng-comment-remplacer-facilement-ses-ic%C3%B4nes-par-vos-propres-svg-sous-angular-20-f7327de0216c?source=rss-a01198f8b650------2) (3 weeks ago)
 - [Comment optimiser vos images docker ?](https://guillaumedaavid.medium.com/comment-optimiser-vos-images-docker-c0a1e2bd4340?source=rss-a01198f8b650------2) (1 month ago)
 - [Comment se passer des hooks de cycle de vie dans Angular ?](https://guillaumedaavid.medium.com/comment-se-passer-des-hooks-de-cycle-de-vie-dans-angular-2b90251f293d?source=rss-a01198f8b650------2) (3 months ago)
 - [Pourquoi adopter une architecture Microservice ?](https://guillaumedaavid.medium.com/pourquoi-adopter-une-architecture-microservice-d8ba9cc7b3f1?source=rss-a01198f8b650------2) (5 months ago)
