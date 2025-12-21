@@ -45,7 +45,7 @@ Full Stack developer for Luxant Innovation.
 - [PrimeNG : comment remplacer facilement ses icônes par vos propres SVG sous Angular 20](https://guillaumedaavid.medium.com/primeng-comment-remplacer-facilement-ses-ic%C3%B4nes-par-vos-propres-svg-sous-angular-20-f7327de0216c?source=rss-a01198f8b650------2) (1 month ago)
 - [Comment optimiser vos images docker ?](https://guillaumedaavid.medium.com/comment-optimiser-vos-images-docker-c0a1e2bd4340?source=rss-a01198f8b650------2) (3 months ago)
 - [Comment se passer des hooks de cycle de vie dans Angular ?](https://guillaumedaavid.medium.com/comment-se-passer-des-hooks-de-cycle-de-vie-dans-angular-2b90251f293d?source=rss-a01198f8b650------2) (4 months ago)
-- [Pourquoi adopter une architecture Microservice ?](https://guillaumedaavid.medium.com/pourquoi-adopter-une-architecture-microservice-d8ba9cc7b3f1?source=rss-a01198f8b650------2) (6 months ago)
+- [Pourquoi adopter une architecture Microservice ?](https://guillaumedaavid.medium.com/pourquoi-adopter-une-architecture-microservice-d8ba9cc7b3f1?source=rss-a01198f8b650------2) (7 months ago)
 - [Angular : La détection des changements](https://guillaumedaavid.medium.com/angular-la-d%C3%A9tection-des-changements-9332384fc63f?source=rss-a01198f8b650------2) (2 years ago)
 - [Créer un chatbot avec Claude 3 et React](https://guillaumedaavid.medium.com/cr%C3%A9er-un-chatbot-avec-claude-3-et-react-5c8128a32eba?source=rss-a01198f8b650------2) (2 years ago)
 - [Toutes les nouveautés de CSS pour bien commencer 2024](https://guillaumedaavid.medium.com/toutes-les-nouveaut%C3%A9s-de-css-pour-bien-commencer-2024-c2afdf452d5d?source=rss-a01198f8b650------2) (2 years ago)
