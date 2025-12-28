@@ -1,23 +1,23 @@
 ### Hi there 👋
 
 
-Développpeur Full Stack Javascript/Typescript pour Luxant Innovation.
+Développpeur Full Stack Javascript/Typescript pour Brextone.
 
-Full Stack developer for Luxant Innovation.
+Full Stack developer for Brextone.
 
 ### Major Project :
 
- - 01academie, site de quizz pour tester ses connaissances en code. (Utilisation du Javascript vanilla, PHP et SQL - MySQL)
+ - 01academie, site de quizz pour tester ses connaissances. (Utilisation du Javascript, PHP et SQL - MySQL)
 
  - Site de e-commence en React combiné à l'utilisation de redux
  
- - Site de visio conférence en freelance (Javascript vanilla)
+ - Site de visio conférence en freelance (Javascript)
  
- - Site de réservation de restaurant en freelance (React, Typescript, redux ...)
+ - Site de réservation en restaurant (React, Typescript, redux ...)
  
- - e-survey, plateforme qui permet de créer des questionnaires personnalisés avec ReactJS
+ - e-survey - ReactJS
 
- - Luxant Innovation - Angular - SQL/MySQL - Feathers.js - Express 
+ - Luxant Innovation/Brextone - Angular - SQL/MySQL - Feathers.js - Express - Docker - CI/CD - VPS
 
 ### Languages and tools :
 
