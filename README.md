@@ -35,10 +35,6 @@ Full Stack developer for Brextone.
 
 [guillaumedavid.com](https://www.guillaumedavid.com/)
 
-<h2>GitHub Stats</h2>
-
-![GHstats](https://github-readme-stats.vercel.app/api?username=GuillaumeDaviid&show_icons=true)
-
 
 ## 📜 My recent blog posts <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
 
