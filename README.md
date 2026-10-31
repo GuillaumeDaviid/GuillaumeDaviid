@@ -38,6 +38,7 @@ Full Stack developer for Brextone.
 
 ## 📜 My recent blog posts <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
 
+- [Automatisez vos review de code](https://guillaumedaavid.medium.com/automatisez-vos-review-de-code-1c7cbc5cb108?source=rss-a01198f8b650------2) (today)
 - [Déployer une webapp avec GitHub et Docker](https://guillaumedaavid.medium.com/d%C3%A9ployer-une-webapp-avec-github-et-docker-f40def7d9b28?source=rss-a01198f8b650------2) (10 months ago)
 - [PrimeNG : comment remplacer facilement ses icônes par vos propres SVG sous Angular 20](https://guillaumedaavid.medium.com/primeng-comment-remplacer-facilement-ses-ic%C3%B4nes-par-vos-propres-svg-sous-angular-20-f7327de0216c?source=rss-a01198f8b650------2) (1 year ago)
 - [Comment optimiser vos images docker ?](https://guillaumedaavid.medium.com/comment-optimiser-vos-images-docker-c0a1e2bd4340?source=rss-a01198f8b650------2) (1 year ago)
@@ -47,7 +48,6 @@ Full Stack developer for Brextone.
 - [Créer un chatbot avec Claude 3 et React](https://guillaumedaavid.medium.com/cr%C3%A9er-un-chatbot-avec-claude-3-et-react-5c8128a32eba?source=rss-a01198f8b650------2) (2 years ago)
 - [Toutes les nouveautés de CSS pour bien commencer 2024](https://guillaumedaavid.medium.com/toutes-les-nouveaut%C3%A9s-de-css-pour-bien-commencer-2024-c2afdf452d5d?source=rss-a01198f8b650------2) (2 years ago)
 - [Créez votre propre ChatGPT avec Angular !](https://guillaumedaavid.medium.com/cr%C3%A9ez-votre-propre-chatgpt-avec-angular-d94b474ebdc6?source=rss-a01198f8b650------2) (3 years ago)
-- [Pourquoi Vercel est la solution parfaite pour héberger votre projet React rapidement ?](https://guillaumedaavid.medium.com/pourquoi-vercel-est-la-solution-parfaite-pour-h%C3%A9berger-votre-projet-react-rapidement-c32cd7b4bab2?source=rss-a01198f8b650------2) (3 years ago)
 
 ##  Where to find me
 
